@@ -1,5 +1,7 @@
 hiya!  
 
+<img src="https://github.com/tsukiiru/tsukiiru/blob/main/fih.webp?raw=true" />
+
 just a regular person with their hobby projects  
 more about me in [my website](https://sukiwa.vercel.app)  
 
