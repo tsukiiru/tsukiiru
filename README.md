@@ -10,3 +10,5 @@ btw also check out:
 - [buoyant](https://github.com/tsukiiru/buoyant): my biggest project so far - a file explorer for linux  
 - [lazyclicker.rs](https://github.com/tsukiiru/lazyclicker.rs): a simple auto clicker for linux
 - some more stuff i have pinned  
+
+##### i love open-source (free) stuff (who doesnt?)
