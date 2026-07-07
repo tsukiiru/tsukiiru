@@ -5,7 +5,7 @@ hiya!
 i use nixos btw :3  
 just a regular person with their hobby projects  
 i mostly code in rust and do some css  
-really in need to get better at ui design...
+really in need to get better at ui design...  
 more about me in [my website](https://orwo.vercel.app) (mostly unserious stuff though, *stay aware of that lol*)   
 
 🛑 i dont use ai agents 🛑  
