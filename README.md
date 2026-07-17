@@ -7,6 +7,7 @@ just a regular person with their hobby projects
 i mostly code in rust and do some css  
 really need to get better at ui design...  
 more about me in [my website](https://orwo.vercel.app) (mostly unserious stuff though, *stay aware of that lol*)   
+i write some gists sometimes -> [buh](https://gist.github.com/tsukiiru)  
 
 🛑 i dont use ai agents 🛑  
 
