@@ -2,7 +2,7 @@ hiya!
 
 <img src="https://github.com/tsukiiru/tsukiiru/blob/main/fih.webp?raw=true" />
 
-i use nixos btw :3  
+i use nixos btw :3 -> [dotfiles](https://github.com/tsukiiru/nixos-dotfiles)  
 just a regular person with their hobby projects  
 i mostly code in rust and do some css  
 really need to get better at ui design...  
